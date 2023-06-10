@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://media.licdn.com/dms/image/C4E22AQEgOblhR5qKTQ/feedshare-shrink_2048_1536/0/1668088771492?e=1674691200&v=beta&t=HUnilQzWBxab4wz1RK-B-xRMa4uZSOQkwnOGula-awQ" width="300" />
+<img src="https://i.pinimg.com/originals/78/2f/03/782f032235bd4b00c80de140b8e70538.jpg" width="300" />
 
 <h1 align="center"> Hi 👋, I´m Antonio DelaRua</h1>
 
