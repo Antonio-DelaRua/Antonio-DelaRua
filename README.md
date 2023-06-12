@@ -31,7 +31,7 @@
 
 - 🏋️‍♂️ I´m currently learning **React, testing with JUNIT, Laravel, Symfony**
 
-- 🌍 Website [ruxxdesing.site](ruxxdesing.site)
+- 🌍 Website [ruxxdev.site](ruxxdev.site)
 
 
 
