@@ -17,7 +17,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/daniel.urbano.752" target="_blank">
-    <img src="https://img.shields.io/badge/Sígueme%20en-Facebook-blue?logo=facebook&style=for-the-badge"
+    <img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&style=for-the-badge"
       alt="Facebook badge">
   </a>
 </div>
