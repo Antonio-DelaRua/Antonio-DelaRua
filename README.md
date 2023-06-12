@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://drive.google.com/file/d/1-tWIrc-Ls9dMnkN4ejjyP-GyU0ew6wwK/view?usp=drive_link" width="300" />
+<img src="https://t4.ftcdn.net/jpg/03/40/60/71/360_F_340607159_4hQZvz4h2tPe9jt7fZRJYIq7x8CWL7GG.jpg" width="300" />
 
 <h1 align="center"> Hola! 👋, Soy, Daniel Urbano</h1>
 
@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
 <a href="https://twitter.com/dannybombastic" target="_blank">
-<img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge"
+<img src="https://img.shields.io/twitter/follow/Danny?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge"
     alt="Twitter badge"
 </a>
 
@@ -27,15 +27,15 @@
 
 ### 👦 About Me :
 
-- 💻 Actualmente mis fuentes de aprendizaje Chat gpt4,  Boot Camp, udemy, youtube.
+  💻 Actualmente mis fuentes de aprendizaje Chat gpt4,  Boot Camp, udemy, youtube.
 
-- ✔  Preguntame sobre  **Angular, Javascript, Java, Spring, Devops, TI, CI Server**
+  ✔  Preguntame sobre  **Angular, Javascript, Java, Spring, Devops, TI, CI Server**
 
-- 📭 Cómo contactarme **dannybombastic@gmail.com**
+  📭 Cómo contactarme **dannybombastic@gmail.com**
 
-- 🏋️‍♂️ actualmente estoy aprendiendo **React, Ciber seguridad, Angular, Sql**
+  🏋️‍♂️ actualmente estoy aprendiendo **React, Ciber seguridad, Angular, Sql**
 
-- 🌍 Website [durbano.com](durbano.com)
+ 🌍 Website [durbano.com](durbano.com)
 
 
 
