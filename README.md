@@ -11,7 +11,7 @@
 <div id="badges" align="center">
 <a href="https://twitter.com/dannybombastic" target="_blank">
 <img src="https://img.shields.io/twitter/follow/dannybombastic?color=blue&label=Danny&logo=twitter&style=for-the-badge"
-    alt="Twitter badge"
+    alt="Twitter badge">
 </a>
 
 
