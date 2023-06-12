@@ -1,44 +1,48 @@
 <div id="header" align="center">
 
-<img src="https://i.pinimg.com/originals/78/2f/03/782f032235bd4b00c80de140b8e70538.jpg" width="300" />
+<img src="https://drive.google.com/file/d/1-tWIrc-Ls9dMnkN4ejjyP-GyU0ew6wwK/view?usp=drive_link" width="300" />
 
-<h1 align="center"> Hi 👋, I´m Antonio DelaRua</h1>
+<h1 align="center"> Hola! 👋, Soy, Daniel Urbano</h1>
 
-<h3 aling="center">A passionate web fullstack developer from Spain. learning every day, eager to move forward and continue learning in the world of programming.</h3>
+<h3 aling="center">Desde muy pequeño inicie en el mundo de los ordenadores empezando por MS-DOS pasando por GwBasic y Pascal y hace cinco años que estoy de vuelta.</h3>
 
 </div>
 
 <div id="badges" align="center">
-<a href="https://twitter.com/ruxxdeveloper" target="_blank">
+<a href="https://twitter.com/dannybombastic" target="_blank">
 <img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge"
     alt="Twitter badge"
 </a>
 
-<a href="https://www.youtube.com/channel/UC9K6inioe7quWKELjuANzMg" target="_blank"> 
-<img src="https://img.shields.io/youtube/channel/subscribers/UC9K6inioe7quWKELjuANzMg?logo=youtube&logoColor=red&style=for-the-badge" alt="Youtube badge" /> 
-</a>
+
+<div id="badges" align="center">
+  <a href="https://www.facebook.com/daniel.urbano.752" target="_blank">
+    <img src="https://img.shields.io/badge/Sígueme%20en-Facebook-blue?logo=facebook&style=for-the-badge"
+      alt="Facebook badge">
+  </a>
 </div>
+
 
 ---
 
 ### 👦 About Me :
 
-- 💻 Currently training with Open Boot Camp, udemy, youtube.
+- 💻 Actualmente mis fuentes de aprendizaje Chat gpt4,  Boot Camp, udemy, youtube.
 
-- ✔  Ask me about **Angular, Javascript, Java, Spring, Html, CSS**
+- ✔  Preguntame sobre  **Angular, Javascript, Java, Spring, Devops, TI, CI Server**
 
-- 📭 How to reach me **ruxxdeveloper@gmail.com**
+- 📭 Cómo contactarme **dannybombastic@gmail.com**
 
-- 🏋️‍♂️ I´m currently learning **React, testing with JUNIT, Laravel, Symfony**
+- 🏋️‍♂️ actualmente estoy aprendiendo **React, Ciber seguridad, Angular, Sql**
 
-- 🌍 Website [ruxxdev.site](ruxxdev.site)
+- 🌍 Website [durbano.com](durbano.com)
 
 
 
 
 
 <div align=left">
-<h3>🔨 Languages and Tools:</h3>
+<h3>🔨 Frameworks y herramientas:</h3>
 <br>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" title="Angular" alt="Angular" width="45" height="45"/>&nbsp;
@@ -59,9 +63,8 @@
 
 ### 📟 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Antonio-DelaRua&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dannybombastic&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-DelaRua&show_icons=true&theme=transparent)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannybombastic&show_icons=true&theme=transparent)
 
