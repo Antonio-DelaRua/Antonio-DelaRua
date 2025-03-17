@@ -23,7 +23,7 @@
 
   🏋️‍♂️ Currently learning **React, testing with JUnit, Laravel, Symfony**
                                         
-  [![LinkedIn](https://img.shields.io/badge/-ruxxdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-de-la-rua-fernandez-508b98243/) 
+  [![LinkedIn](https://img.shields.io/badge/-Linkedin-00b599?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-de-la-rua-fernandez-508b98243/) 
 </div>
 
 ---
