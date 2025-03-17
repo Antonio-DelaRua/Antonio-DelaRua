@@ -14,10 +14,9 @@
     alt="Twitter badge" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC9K6inioe7quWKELjuANzMg" target="_blank"> 
-<img src="https://img.shields.io/youtube/channel/subscribers/UC9K6inioe7quWKELjuANzMg?logo=youtube&logoColor=red&style=for-the-badge" alt="Youtube badge" /> 
+<a href="https://twitter.com/ruxxdeveloper" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge" alt="Twitter badge" />
 </a>
-</div>
 
 ---
 <div align="center">
