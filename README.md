@@ -20,8 +20,9 @@
 </div>
 
 ---
-
-###                                                            👦 About Me :
+<div align="center">
+###👦 About Me :
+</div>
 
                                         - 💻 Currently training with Open Boot Camp, Udemy, YouTube
 
