@@ -8,16 +8,6 @@
 
 </div>
 
-<div id="badges" align="center">
-<a href="https://twitter.com/ruxxdeveloper" target="_blank">
-<img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge"
-    alt="Twitter badge" />
-</a>
-
-<a href="https://twitter.com/ruxxdeveloper" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge" alt="Twitter badge" />
-</a>
-
 ---
 <div align="center">
 <h3 align="center">👦 About Me :</h3>
