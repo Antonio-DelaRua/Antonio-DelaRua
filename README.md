@@ -23,7 +23,7 @@
 
   🏋️‍♂️ Currently learning **React, testing with JUnit, Laravel, Symfony**
                                         
-  🌍 Website [ruxxdev.site](https://ruxxdev.site)
+  🌍 Linkedin [ruxxdev]([https://ruxxdev.site](https://www.linkedin.com/in/antonio-de-la-rua-fernandez-508b98243/))
 </div>
 
 ---
