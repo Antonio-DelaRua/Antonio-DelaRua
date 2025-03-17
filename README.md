@@ -24,17 +24,18 @@
 <h3 align="center">👦 About Me :</h3>
 <br>
 <div>
+<div align="center">
 
+- 💻 Currently training with Open Boot Camp, Udemy, YouTube
 
-                                        - 💻 Currently training with Open Boot Camp, Udemy, YouTube
+- ✔️ Ask me about **Angular, JavaScript, Java, Spring, HTML, CSS**
 
-                                        - ✔️ Ask me about **Angular, JavaScript, Java, Spring, HTML, CSS**
+- 📫 How to reach me **ruxxdeveloper@gmail.com**
 
-                                        - 📫 How to reach me **ruxxdeveloper@gmail.com**
-
-                                        - 🏋️‍♂️ Currently learning **React, testing with JUnit, Laravel, Symfony**
-
-                                        - 🌍 Website [ruxxdev.site](https://ruxxdev.site)
+- 🏋️‍♂️ Currently learning **React, testing with JUnit, Laravel, Symfony**
+                                        
+- 🌍 Website [ruxxdev.site](https://ruxxdev.site)
+</div>
 
 <div align="center">
 <h3 align="center">🔨 Languages and Tools:</h3>
