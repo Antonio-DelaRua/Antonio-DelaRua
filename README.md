@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://preview.redd.it/vqk5x5qs3wt11.png?auto=webp&s=9fac01b5d736ac410df750861133d67a05d7fc99" width="300" />
+<img src="https://img.goodfon.com/wallpaper/big/3/55/code-coding-laptop-programming.webp" width="300" />
 
 <h1 align="center"> Hi 👋, I´m Antonio DelaRua</h1>
 
