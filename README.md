@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://img.goodfon.com/wallpaper/big/3/55/code-coding-laptop-programming.webp" width="300" />
+<img src="git.png" width="300" />
 
 <h1 align="center"> Hi 👋, I´m Antonio DelaRua</h1>
 
