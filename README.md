@@ -49,7 +49,9 @@
 ### 📟 My Stats :
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Antonio-DelaRua)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Antonio-DelaRua&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
+
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-DelaRua&show_icons=true&theme=radical)
